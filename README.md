@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=welcome%20to-nl-taeyoung's%20Github&fontSize=80&fontColor=d6ace6&fontAlign=54" />
-<p align = "cneter"><h1> 💻 tistory 💻</h1></p>
+<p align = "cneter"><h1> 💻  Study log 💻</h1></p>
 <div style="display:flex; flex-direction:row;">
     <a href="https://for-young.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
@@ -24,10 +24,18 @@
 <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black">
 <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-
+<img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
-
-
-
-
+<p align = "cneter"><h1> 💡 education 💡</h1></p>
+<div>● 멀티캠퍼스 데이터분석 & 엔지니어 27회차 </div>
+<p align = "cneter"><h1> 👩🏻‍💻 project 👩🏻‍💻</h1></p>
+<div>● Emopic - 다중감성분석 후 해당 감정에 맞는 얼굴표정이미지생성서비스</div>
+<div>● 끄적끄적 - 한국형그림일기생성서비스</div>
+<p align = "cneter"><h1> 🪪 Certification  🪪</h1></p>
+<div>● 정보처리기사 2023.11 한국산업인력공단</div>
+<div>● SQL 개발자(SQLD) 2023.07 한국데이터산업진흥원</div>
+<div>● 데이터분석 준전문가(ADsP) 2023.09 한국산업인력공단</div>
+<div>● 빅데이터분석기사 필기 2023.09 한국산업인력공단</div>
 
