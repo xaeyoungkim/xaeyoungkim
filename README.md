@@ -33,6 +33,7 @@
 <p align = "cneter"><h1> 👩🏻‍💻 project 👩🏻‍💻</h1></p>
 <div>● Emopic - 다중감성분석 후 해당 감정에 맞는 얼굴표정이미지생성서비스</div>
 <div>● 끄적끄적 - 한국형그림일기생성서비스</div>
+<div>● 스마트스토어 분석</div>
 <p align = "cneter"><h1> 🪪 Certification  🪪</h1></p>
 <div>● 정보처리기사 2023.11 한국산업인력공단</div>
 <div>● SQL 개발자(SQLD) 2023.07 한국데이터산업진흥원</div>
